@@ -1,3 +1,6 @@
+const passname = document.getElementById("person");
+
+
 document.addEventListener('DOMContentLoaded', () => {
 
     const ltrCon = document.getElementById('ltr_con');
@@ -42,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
             setTimeout(() => {
                 ltrCon.style.transition = 'transform 0s'; 
                 animateRotationDecay();
-            }, 1000); 
+            }, 500); 
         }
 
     });
@@ -55,7 +58,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         currentRotation = nearestInterval;
 
-        console.log(currentRotation)
+        let newletter = toLetter(currentRotation);
+        writename(newletter);
 
     }
 
@@ -79,3 +83,69 @@ document.addEventListener('DOMContentLoaded', () => {
         animationFrameId = requestAnimationFrame(animate);
     }
 });
+
+function toLetter(angle){
+        
+    if (angle === 0) {
+        return 'A';
+      } else if (angle <= -13 && angle >= -14) {
+        return 'B';
+      } else if (angle <= -27 && angle >= -28) {
+        return 'C';
+      } else if (angle <= -41 && angle >= -42) {
+        return 'D';
+      } else if (angle <= -55 && angle >= -56) {
+        return 'E';
+      } else if (angle <= -69 && angle >= -70) {
+        return 'F';
+      } else if (angle <= -83 && angle >= -84) {
+        return 'G';
+      } else if (angle <= -96 && angle >= -97) {
+        return 'H';
+      } else if (angle <= -110 && angle >= -111) {
+        return 'I';
+      } else if (angle <= -124 && angle >= -125) {
+        return 'J';
+      } else if (angle <= -138 && angle >= -139) {
+        return 'K';
+      } else if (angle <= -152 && angle >= -153) {
+        return 'L';
+      } else if (angle <= -166 && angle >= -167) {
+        return 'M';
+      } else if (angle >= 180 && angle <= 181) {
+        return 'N';
+      } else if (angle >= 166 && angle <= 167) {
+        return 'O';
+      } else if (angle >= 152 && angle <= 153) {
+        return 'P';
+      } else if (angle >= 138 && angle <= 139) {
+        return 'Q';
+      } else if (angle >= 124 && angle <= 125) {
+        return 'R';
+      } else if (angle >= 110 && angle <= 111) {
+        return 'S';
+      } else if (angle >= 96 && angle <= 97) {
+        return 'T';
+      } else if (angle >= 83 && angle <= 84) {
+        return 'U';
+      } else if (angle >= 69 && angle <= 70) {
+        return 'V';
+      } else if (angle >= 55 && angle <= 56) {
+        return 'W';
+      } else if (angle >= 41 && angle <= 42) {
+        return 'X';
+      } else if (angle >= 27 && angle <= 28) {
+        return 'Y';
+      } else if (angle >= 13 && angle <= 14) {
+        return 'Z';
+      } else {
+        return '';
+      }
+
+    };
+
+function writename(newletter){
+
+    passname.textContent = passname.textContent + newletter
+
+}
