@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+}
+
+.unselectable {
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+  }
+
+.box {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('images/bg_set.png')
+  }
+  
+  .bg-image {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+  }
+
+  .central{
+    width: 800px;
+    height: 800px;
+    position: absolute;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .arrow{
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+  }
+
+  .inner-circle{
+    width: 700px;
+    height: 700px;
+    margin: 10px;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ltr_con{
+    width: 690px;
+    height: 690px;
+    margin: 10px;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .letters{
+    width: 870px;
+    height: 870px;
+    position: absolute;
+  }
+
+  .msg{
+    width: 580px;
+    height: 580px;
+    display: flex;
+    background-color: rgb(158, 151, 151);
+    position: absolute;
+    border-radius: 50%;
+  }
+
+
+
