@@ -2,7 +2,6 @@ const messages = [
   `There's so much I want to say to you... <br><br> 
   I honestly don't even know where to begin. <br><br>   
   What's left to say anyway? <br><br> 
-  Other than that I still love you. <br><br> 
 
   I've been writing a lot y'know, too much. So here: <br><br> 
 
