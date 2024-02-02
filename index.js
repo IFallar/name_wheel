@@ -319,7 +319,7 @@ function messagedisplay(currentname){
             messagecon.innerHTML = `<h3 id="message"> ${messages[x]} </h3>`;
             break;
         case "RAFAEL":
-            x = 12;
+            x = 13;
             openbars()
             messagecon.innerHTML = `<h3 id="message"> ${messages[x]} </h3>`;
             break;
