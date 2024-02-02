@@ -66,6 +66,10 @@ const messages = [
   `
   Man, I only just found out you were way older than us fr fr.
   `,//RELIX 12
+
+  `
+  Sino ba yang ex na yan.
+  `,//RAFAEL 13
   
 
   `<img id="message_img" class="unselectable" src="images/ltg.jpg" alt="">`//ELSE
@@ -310,6 +314,11 @@ function messagedisplay(currentname){
             messagecon.innerHTML = `<h3 id="message"> ${messages[x]} </h3>`;
             break;
         case "RELIX":
+            x = 12;
+            openbars()
+            messagecon.innerHTML = `<h3 id="message"> ${messages[x]} </h3>`;
+            break;
+        case "RAFAEL":
             x = 12;
             openbars()
             messagecon.innerHTML = `<h3 id="message"> ${messages[x]} </h3>`;
