@@ -70,6 +70,10 @@ const messages = [
   `
   Sino ba yang ex na yan.
   `,//RAFAEL 13
+
+  `
+  People thought I had a crush on you for some reason, idk either.
+  `,//CHEERY 14
   
 
   `<img id="message_img" class="unselectable" src="images/ltg.jpg" alt="">`//ELSE
@@ -320,6 +324,11 @@ function messagedisplay(currentname){
             break;
         case "RAFAEL":
             x = 13;
+            openbars()
+            messagecon.innerHTML = `<h3 id="message"> ${messages[x]} </h3>`;
+            break;
+        case "CHEERY":
+            x = 14;
             openbars()
             messagecon.innerHTML = `<h3 id="message"> ${messages[x]} </h3>`;
             break;
