@@ -13,8 +13,6 @@ const messages = [
   `
   It was a quiet realization, <br><br> 
   you were scolding me then. <br><br> 
-  But as you did, your words faded <br><br> 
-  i didn't know it what it was back then <br><br> 
   but in that moment <br><br> 
   i felt the afternoon sun, <br><br> 
   and I thought to myself; <br><br> 
