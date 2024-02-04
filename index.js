@@ -7,7 +7,7 @@ const messages = [
 
   <a href="https://drive.google.com/drive/folders/1NuH01VepoiQqrlpfro-0YfvvJ3ZYry5Y?usp=sharing">The sum of my thoughts</a>  <br><br> 
 
-  If nothing else, I want to see you again in person.
+  If nothing else, I want to see you again in person and ask how you make it seem so easy.
   `, //CRISTINE 0 
 
   `
