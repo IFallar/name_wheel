@@ -11,7 +11,17 @@ const messages = [
   `, //CRISTINE 0 
 
   `
-  Deputy.
+  When I fell for you years ago  <br><br> 
+  it was not romantic,  <br><br> 
+  nothing at all like the movies, <br><br> 
+  rather, it felt all too pedestrian.  <br><br> 
+  It was a quiet realization,  <br><br> 
+  i didn't know it what it was back then <br><br> 
+  but in that moment <br><br> 
+  i felt the afternoon sun, <br><br> 
+  and I thought to myself; <br><br> 
+  “Huh. It's a bit warmer <br><br> 
+  than I would have guessed.”  <br><br> 
   `, //MARIANNE 1
 
   `
