@@ -11,13 +11,7 @@ const messages = [
   `, //CRISTINE 0 
 
   `
-  It was a quiet realization, <br><br> 
-  you were scolding me then. <br><br> 
-  but in that moment <br><br> 
-  i felt the afternoon sun, <br><br> 
-  and I thought to myself; <br><br> 
-  “Huh. It's a bit warmer <br><br> 
-  than I would have guessed.” <br><br> 
+  Deputy.
   `, //MARIANNE 1
 
   `
