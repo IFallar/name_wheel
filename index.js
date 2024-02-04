@@ -1,28 +1,34 @@
 const messages = [
-  `There's so much I want to say to you... <br><br> 
+  `
+  There's so much I want to say to you... <br><br> 
   I honestly don't even know where to begin. <br><br>   
-  What's left to say anyway? <br><br> 
 
-  I've been writing a lot y'know, too much. So here: <br><br> 
+  I'm sorry for what I said last night, I won't make excuses for it. The truth is it's been hard for me, understanding things I mean, how can you be fading way when you're right there.<br><br> 
+  
+  I love you so much yet everyday I feel like these emotions are slowly turning into bitterness and recriminations. <br><br>
 
-  <a href="https://drive.google.com/drive/folders/1NuH01VepoiQqrlpfro-0YfvvJ3ZYry5Y?usp=sharing">The sum of my thoughts</a>  <br><br> 
+  I tell myself that I must surrender to fate, that I should let things settle with grace and permanence, but I can't let you go, even after having had so many experiences in saying goodbyes, even if I've ruined everything I've ever held too tightly. <br><br>
 
-  If nothing else, I want to see you again in person and ask how you make it seem so easy.
+  I've been writing a lot y'know, too much. So here some of works I never quite sent you: <br><br> 
+
+  <a href="https://drive.google.com/drive/folders/1NuH01VepoiQqrlpfro-0YfvvJ3ZYry5Y?usp=sharing">Dear Rival.</a>  <br><br> 
+
   `, //CRISTINE 0 
 
   `
-  When I fell for you years ago  <br><br> 
-  it was not romantic,  <br><br> 
-  nothing at all like the movies, <br><br> 
-  rather, it felt all too pedestrian.  <br><br> 
-  It was a quiet realization,  <br><br> 
-  i didn't know it what it was back then <br><br> 
-  but in that moment <br><br> 
-  i felt the afternoon sun, <br><br> 
-  and I thought to myself; <br><br> 
-  “Huh. It's a bit warmer <br><br> 
-  than I would have guessed.”  <br><br> 
+  Deputy <br><br>
   `, //MARIANNE 1
+  //When I fell for you years ago  <br><br> 
+  //it was not romantic,  <br><br> 
+  //nothing at all like the movies, <br><br> 
+  //rather, it felt all too pedestrian.  <br><br> 
+  //It was a quiet realization,  <br><br> 
+  //i didn't know it what it was back then <br><br> 
+  //but in that moment <br><br> 
+  //i felt the afternoon sun, <br><br> 
+  //and I thought to myself; <br><br> 
+  //“Huh. It's a bit warmer <br><br> 
+  //than I would have guessed.”  <br><br> 
 
   `
   Goodluck on the Interview!
